@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+      --color-principal-dark: #4A7C59;
+      --color-principal-light: #A3B18A;
+      --color-gold: #c9a660;
+
+      --font-family-serif: Georgia, serif;
+      --font-vintageText: 'Cormorant Infant', serif;
+      --font-family-sans: Helvetica, Arial, sans-serif;
+}
