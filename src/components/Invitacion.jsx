@@ -102,7 +102,7 @@ const Invitacion = () => {
           <section className="bg-principal-light py-10 text-white text-center">
             <GoogleCalendarButton 
             titleCalendar="Casamiento de Lore y Jorge"
-            salon="C. la Soja & C. la Caña de Azucar, Colonia Rural Nueva Esperanza"
+            salon="4V26+G67 Neuquén, Argentina"
             fechaComienzo="20260215T180000"
             fechaFin="20260216T050000"
             />

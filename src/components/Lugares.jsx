@@ -105,7 +105,7 @@ const Places = () => {
                   Si llegas en vehículo
                 </p>
                 <p className='font-light text-gray-700'>
-                  Estacionamiento e ingreso por <span className='font-semibold'>calle La Mandioca</span>
+                  Estacionamiento e ingreso por <span className='font-semibold'>calle La Mandioca (La Escaloneta)</span>
                 </p>
               </div>
             </div>
@@ -130,7 +130,7 @@ const Places = () => {
       <button 
         className='bg-principal-dark hover:bg-principal-dark/90 text-white font-serif px-8 py-3 rounded-full shadow-lg transition-all duration-300 hover:shadow-xl hover:scale-105'
         data-aos='fade-up'
-        onClick={() => window.open('https://maps.app.goo.gl/uYDXqaG6czxg3Eub8', '_blank')}
+        onClick={() => window.open('https://maps.app.goo.gl/2Xp9rgLQxVsFPNZj6', '_blank')}
       >
         Ver en Google Maps
       </button>
